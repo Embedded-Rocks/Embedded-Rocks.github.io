@@ -13,19 +13,28 @@ Jonathas.
 
 ---
 
-[Visit the store](https://store.embedded.rocks/){:target="_blank"}
+## Shopping
+
+
+![90s GIF On Sale](assets/img/SALE.gif) Visit the [oficial store](https://store.embedded.rocks/){:target="_blank"}
+
+
+|---|---|
+|![Clockwise logo](assets/img/clockwise-logo.png)| Get the Clockwise DIY Kit with **5% OFF** clicking [here](https://0f44a3.myshopify.com/cart/46296134254874:1?storefront=true&note=origin-embeddedrocks-homepage&discount=CLOCKWISEOFF5){:target="_blank"}|
+
+
+
+
+
 
 
 ---
 
-
-
-
-
+## Guestbook
+<!--![Shopify button](assets/img/shopify.png) -->
 <div class="container">
-    <h3>Guestbook</h3>
     <form action="https://usebasin.com/f/be3b2e6ed179" method="POST" enctype="multipart/form-data" id="guestbook">
-        <textarea name="message" row="3" required placeholder="Message"></textarea>
+        <textarea name="message" row="3" placeholder="Message" required></textarea>
         <input type="text" name="name" placeholder="Name or Email" required/>
         <input  id="dateTime" type="hidden" name="dateTime"/>
         <input type="submit"/>
